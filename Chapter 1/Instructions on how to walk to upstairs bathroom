@@ -1,0 +1,15 @@
+#include <iostream>
+
+int main() {
+	std::cout << "Walk to the front of the blue building, and stand 2cm away from the door \n"; 
+	std::cout << "Then use your right hand to hold the door knob and turn it right and push the door forward with your body \n"; 
+	std::cout << "Then walk inside the door \n"; 
+	std::cout << "Turn your head to the left and right 90 degrees until you see the stairs \n" ; 
+	std::cout << "Walk towards the stairs and use each foot to step up on the staircase until they are both on a flat surface with no steps \n" ;
+	std::cout << "Turn your head to the left and right 90 degrees until you see a door open with a toilet \n" ;
+	std::cout << "The toilet will be white, if you see it walk towards the toilet until you approach a door blocking you \n" ;
+	std::cout << "Push the door blocking you towards the left, then step infront of the white toilet \n";
+	std::cout << "You are now inside the upstairs bathroom \n";
+	(void) getchar(); 
+	return 0; 
+}
